@@ -1,6 +1,6 @@
 # mongodb-mocha-practice-muber-api_for_driver
 
-This project is used for practice mongodb or mongoose, testing with Mocha, etc.
+This project is used for practice mongodb or mongoose, testing with Mocha, etc. The API is similar to Uber, for driver and customer checking ahere the driver near by locatiion.
 
 ## Built with
 
